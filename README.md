@@ -1,7 +1,5 @@
 ## WeatherApi (.NET 9)
 
-Project URL: https://github.com/akash-limbani/WetherAPIs
-Project Git URL: https://github.com/akash-limbani/WetherAPIs.git
 Project Page: https://roadmap.sh/projects/weather-api-wrapper-service
 
 ### Prerequisites
